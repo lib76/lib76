@@ -1,4 +1,4 @@
-![fullstack](https://www.canva.com/design/DAEiVpjVUq8/view)
+![fullstack](https://www.canva.com/design/DAEiVpjVUq8/tmDMYtCfNbVp5YBOc5QTsA/watch?utm_content=DAEiVpjVUq8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!--
 **lib76/lib76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
