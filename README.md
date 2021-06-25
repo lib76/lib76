@@ -17,7 +17,7 @@ Git GitHub Jira jQuery Node.js React Redux
     📫 You can reach me with the links below
 
 Email: paine76@protonmail.com
-LinkedIn: https://linkedin.com/in/jc-becerra
+[LinkedIn]: https://linkedin.com/in/jc-becerra
 
 I love talking to different people, I always learn from them, specially if I can give them a hand, so feel free to reach me any time!
 
