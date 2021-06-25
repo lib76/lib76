@@ -6,13 +6,13 @@
 * Also, I'm still learning everything I can about Frontend and Backend technologies, a trip I certainly enjoy despite the difficulties that comes up 😆.
 * 💪🏼 Future Goals: Learn more technologies, specially about security.
 
-```Languages I use```
+##Languages I us`
 
 1. JavaScript 2. SQL 3. HTML 4. CSS
 
-```Some of the technologies I have worked with```
+##Some of the technologies I have worked with
 
-1. Git 2. GitHub 3. Jira 4. jQuery 5. Node.js 6. React 7. Redux
+ - Git 2. GitHub 3. Jira 4. jQuery 5. Node.js 6. React 7. Redux
 
     📫 You can reach me with the links below
 
