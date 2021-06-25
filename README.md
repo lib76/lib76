@@ -1,4 +1,4 @@
-![fullstack](https://ibb.co/mCnf96r.png)
+![fullstack](https://ibb.co/mCnf96r)
 
 ## Hi! I'm Juan Cruz Becerra, a 30 year old Full Stack Web Developer, and Self Defense Instructor from Argentina 🇦🇷
 
