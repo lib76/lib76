@@ -1,7 +1,6 @@
 ![fullstack](https://ibb.co/mCnf96r)
 
-<!--
-**lib76/lib76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Hi! I'm Juan Cruz Becerra, a very curious 30 year old Full Stack Web Developer, and Self Defense Instructor from Argentina 🇦🇷#
 
 Here are some ideas to get you started:
 
