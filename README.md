@@ -8,11 +8,11 @@
 
 ##Languages I us`
 
-1. JavaScript 2. SQL 3. HTML 4. CSS
+```JavaScript```  ```SQL```  ```HTML```  ```CSS```
 
 ##Some of the technologies I have worked with
 
- - Git 2. GitHub 3. Jira 4. jQuery 5. Node.js 6. React 7. Redux
+ ```Git```  ```GitHub```  ```Jira```  ```jQuery```  ```Node.js```  ```React```  ```Redux```
 
     📫 You can reach me with the links below
 
