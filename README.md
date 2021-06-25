@@ -10,6 +10,8 @@
 
 ```JavaScript```  ```SQL```  ```HTML```  ```CSS``` ```TypeScript```
 
+ c cplusplus java javascript typescript 
+
 ### Some of the technologies I have worked with
 
  ```React```  ```Redux``` ```ExpressJS``` ```PassportJS``` ```Git```  ```GitHub```  ```Jira```  ```jQuery```  ```Node.js```  
