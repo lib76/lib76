@@ -8,7 +8,7 @@
 
 ### Languages I use
 
-```JavaScript```  ```SQL```  ```HTML```  ```CSS```
+```JavaScript```  ```SQL```  ```HTML```  ```CSS``` ```TypeScript```
 
 ### Some of the technologies I have worked with
 
