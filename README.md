@@ -12,7 +12,7 @@
 
 ### Some of the technologies I have worked with
 
- ```React```  ```Redux``` ```ExpressJS``` ```Git```  ```GitHub```  ```Jira```  ```jQuery```  ```Node.js```  
+ ```React```  ```Redux``` ```ExpressJS``` ```PassportJS``` ```Git```  ```GitHub```  ```Jira```  ```jQuery```  ```Node.js```  
 
     📫 You can reach me with the links below
 
