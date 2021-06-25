@@ -14,7 +14,7 @@
 
  ```React```  ```Redux``` ```ExpressJS``` ```PassportJS``` ```Git```  ```GitHub```  ```Jira```  ```jQuery```  ```Node.js```  
 
-    📫 You can reach me with the links below
+### You can reach me with the links below
 
 * Email: paine76@protonmail.com
 * LinkedIn: https://linkedin.com/in/jc-becerra
