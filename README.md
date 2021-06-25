@@ -20,5 +20,5 @@
 * LinkedIn: https://linkedin.com/in/jc-becerra
 
 
-:muscle: I love talking to different people, I always learn from them, specially if I can give them a hand, so feel free to reach me at any time!
+💪🏼 I love talking to different people, I always learn from them, specially if I can give them a hand, so feel free to reach me at any time!
 
